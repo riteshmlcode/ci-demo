@@ -11,4 +11,3 @@ result2 = sub(20, 10)
 
 print(result1, result2)
 
-
